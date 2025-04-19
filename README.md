@@ -1,9 +1,12 @@
 ## Hi there 👋
 
+### 🐶 Self-introduction
+- I am just a mediocre  web front-end developer! 
+- 😄 &nbsp; [Here](https://www.phpnbw.com/) is my personal blog
 
 ### 🛠️ Worked Skills
 - ✅ Golang / Python / PHP
-- ✅ K8s / Linux / Docker / Shell
+- ✅ K8S / Linux / Docker / Shell
 - ✅ Vue.js / React.js / ...
 
 <p align="left">
