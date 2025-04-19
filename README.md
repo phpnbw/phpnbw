@@ -14,8 +14,8 @@
 
 ### 🛠️ Worked Skills
 - ✅ Golang / Python / PHP
-- ✅ K8S / Linux / Docker / Shell
-- ✅ Vue.js / React.js / ...
+- ✅ K8S / Linux / Docker / Shell / ...
+- ✅ JavaScript / TypeScript / Node.js / Vue.js / React.js / ...
 
 <p align="left">
   <code><img src="https://github.com/devicons/devicon/blob/v2.15.1/icons/go/go-original.svg" height="25"/></code>
@@ -27,6 +27,9 @@
   <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" height="25"/></code>
   <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" height="25"/></code>
   <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="25"/></code>
+  <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="25"/></code>
+  <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="25"/></code>
+  <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" height="25"/></code>
 </p>
 
 
