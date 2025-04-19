@@ -12,7 +12,7 @@
 
 ### 🛠️ Worked Skills
 - ✅ K8s Middleware Development BY Golang
-- ✅ Cloud-native Middleware Development AND Architecture Design
+- ✅ Cloud-native Middleware Development And Architecture Design
 - ✅ Golang / Python / PHP / Linux / Docker / Shell / ...
 - ✅ JavaScript / TypeScript / Node.js / Vue.js / React.js / ...
 
