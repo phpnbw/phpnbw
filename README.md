@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 ### 🐶 Self-introduction
-- I am just a mediocre  web front-end developer! 
+- I am a backend developer, currently focusing on cloud-native middleware development, K8s middleware development, cloud-native architecture design, and high availability design and development for services.
 - 😄 &nbsp; [Here](https://www.phpnbw.com/) is my personal blog
 
 ### 🛠️ Worked Skills
