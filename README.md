@@ -13,8 +13,9 @@
 - 😄 &nbsp; [Here](https://www.phpnbw.com/) is my personal blog
 
 ### 🛠️ Worked Skills
-- ✅ Golang / Python / PHP
-- ✅ K8S / Linux / Docker / Shell / ...
+- ✅ K8s Middleware Development BY Golang
+- ✅ Cloud-native Middleware Development AND Architecture Design
+- ✅ Golang / Python / PHP / Linux / Docker / Shell / ...
 - ✅ JavaScript / TypeScript / Node.js / Vue.js / React.js / ...
 
 <p align="left">
